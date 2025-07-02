@@ -1,6 +1,6 @@
 # 🛠 Guillotina Hidráulica Modular para Perfiles Steel Frame
 
-Este repositorio documenta el desarrollo completo de una **herramienta de corte hidráulica modular** diseñada y construida durante mi Práctica Profesional Supervisada (PPS) en la empresa **AD Barbieri S.A.**, como parte de mi formación en la Facultad de Ingeniería de la Universidad Nacional de Lomas de Zamora.
+Este repositorio documenta el desarrollo completo de una **herramienta de corte hidráulica modular** diseñada y construida durante mi Práctica Profesional Supervisada (PPS), como parte de mi formación en la Facultad de Ingeniería de la Universidad Nacional de Lomas de Zamora.
 
 ## 🎯 Objetivos del Proyecto
 
@@ -53,17 +53,10 @@ El PLC gestiona:
 - Esquema hidráulico
 - Diagrama lógico del PLC (parcial adjunto)
 
-## 🏭 Empresa
-
-**AD Barbieri S.A.**  
-Burzaco, Buenos Aires, Argentina  
-Fabricación de perfiles metálicos y plásticos para construcción en seco
-
 ## 👤 Autor
 
 **Nicolás Barcia**  
 Alumno de Ingeniería – UNLZ  
-Tutor institucional: Ing. Ezequiel Panattoni  
 Tutor académico: Ing. Cristian Lukaszewicz
 
 ---
